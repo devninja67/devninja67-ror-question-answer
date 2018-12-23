@@ -1,0 +1,8 @@
+/log/*
+!/log/.keep
+/tmp
+/public/assets/
+/public/uploads/
+/config/secrets.yml
+/config/database.yml
+*.DS_Store
